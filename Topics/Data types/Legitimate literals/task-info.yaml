@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: 10.0
+- text: -6875309
+- text: 42
+- text: '"-12"'
+- text: 2.3
+- text: 1.5
+- text: -1
+- text: '''7'''
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16078#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 04 Aug 2022 13:36:31 UTC
+record: -1
+selected_options:
+- 1
+- 2
+- 6
+local_check: false
